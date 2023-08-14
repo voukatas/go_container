@@ -12,8 +12,8 @@ A minimal container implementation using Go, leveraging Linux namespaces and cgr
 
 1. Clone the repository:
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/voukatas/go_container
+cd go_container
 ```
 
 2. Download a mini Linux filesystem. For example:
